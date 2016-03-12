@@ -22,7 +22,7 @@ public class RepoEDD1 {
         System.out.print("IDE Eclipse");
         
         System.out.print("Inserir una linia mes en main.");
-        System.out.println("Altra modificació des d´Eclipse.");
+        System.out.println("Altra modificació des de Netbeans.");
 
     }
     
